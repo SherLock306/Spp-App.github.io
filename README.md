@@ -1,4 +1,4 @@
-#Spp-App.github.io
+# Spp-App.github.io
 
 <p align="center"><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/1.PNG" width="600"></p>
 
